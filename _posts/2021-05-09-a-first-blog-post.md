@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A First Blog Post
+title: "A First Blog Post"
 ---
 
 # A First Blog Post 
